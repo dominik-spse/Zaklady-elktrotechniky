@@ -1,0 +1,5 @@
+C:\Users\Uzivatel\Desktop\zakladyelektrotechniky.exe
+C:\Users\Uzivatel\Desktop\zakladyelektrotechniky.dll
+C:\Users\Uzivatel\Desktop\zakladyelektrotechniky.deps.json
+C:\Users\Uzivatel\Desktop\zakladyelektrotechniky.runtimeconfig.json
+C:\Users\Uzivatel\Desktop\zakladyelektrotechniky.pdb
